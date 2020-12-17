@@ -1,3 +1,4 @@
+<details>
 <summary></summary>
     <p align="center">
       <a href="#" target="_blank">
@@ -13,3 +14,4 @@
           </a>
         </p>
     </details>
+</details>
